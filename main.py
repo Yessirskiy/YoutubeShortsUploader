@@ -214,6 +214,5 @@ def main():
     input("Press ENTER to exit...")
 
 if __name__ == "__main__":
-    if authUser():
-        main()
+    main()
     input("Press ENTER to exit...")
